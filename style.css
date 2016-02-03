@@ -1,0 +1,39 @@
+body {
+	font-family: "Roboto", Arial, Times New Roman;
+}
+
+.navbar {
+	margin-bottom: 0;
+}
+
+.jumbotron-empresa {
+	background: #5B5B5B;
+	color: #FFFFFF;
+	margin-bottom: 0;
+}
+
+.quienes-somos {
+	background: url(http://www.ohmygeek.net/wp-content/uploads/2014/06/Concepcion.jpg)no-repeat;
+	color: #FFFFFF;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.trabajamos {
+	background: #EBEBEB;
+	padding-bottom: 10px;
+}
+
+.equipo {
+	background: #D7D7D7;
+}
+
+.equipo .thumb img {
+	width: 90px;
+	height: 90px;
+	margin: 0 auto;
+}
+
+.contacto {
+	padding-bottom: 10px;
+}
